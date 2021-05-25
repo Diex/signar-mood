@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "complexity-01"
+  },
+  "targets": {
+    "complexity-01": {
+      "hosting": {
+        "complexity-01": [
+          "complexity-01"
+        ],
+        "complexity-02": [
+          "complexity-02"
+        ]
+        ,
+        "complexity-03": [
+          "complexity-03"
+        ]
+      }
+    }
+  }
+}
